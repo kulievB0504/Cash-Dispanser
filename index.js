@@ -30,4 +30,14 @@ switch (name) {
 
 
 let name_inClub = prompt('Добро подаловать в наш клуб. Будут приняты только тех, чьи имена начинается на А')
+let age = prompt('Сколько вам лет?')
+
+
+
+if (age > 20 && age <= 40 && money > 100) { 
+    let quantity = prompt('Вас сколько?');
+   if(full_people > 10 && occupite === 8) {
+  
+   }
+} 
 
